@@ -8,7 +8,6 @@
   │   └── menu           -- shell实现菜单能力的依赖脚本
   ├── autostart.sh       -- dwm自启动时调用的启动脚本
   ├── blurlock.sh        -- 模糊锁屏脚本
-  ├── ~~music_player.sh    -- 音乐播放器脚本~~
   ├── rofi.sh            -- 自用的rofi脚本: rofi -show menu -modi 'menu:~/scripts/rofi.sh'
   ├── screenkey.sh       -- 屏幕上显示按键输入的脚本
   ├── gif_recorder.sh    -- gif录制脚本
